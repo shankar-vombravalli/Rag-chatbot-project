@@ -60,16 +60,6 @@ python app.py
 
 ---
 
-## 📊 Dataset
-
-* Custom text/PDF documents
-* (Add your dataset description or link here)
-
----
-
-## 📷 Output Screenshots
-
-(Add screenshots below)
 
 ---
 
